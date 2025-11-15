@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>.
 
 profile:
   align: right
-  image: headshot.jpg
+  image: headshot.jpeg
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>name_starting_with_c<dot>name_starting_with_g<at>utexas<dot>edu</p>
