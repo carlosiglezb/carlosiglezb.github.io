@@ -9,7 +9,7 @@ profile:
   image: headshot.jpeg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>name_starting_with_c&lt;dot&gt;name_starting_with_g&lt;at&gt;utexas&lt;dot&gt;edu</p>
+    <p>first&lt;dot&gt;last&lt;at&gt;utexas&lt;dot&gt;edu</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
