@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Passed oral qualifying exams. Became PhD Candidate.
+Passed oral qualifying exams. Became a PhD Candidate

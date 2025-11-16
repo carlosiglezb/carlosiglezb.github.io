@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Gave oral presentation of Multicontact Locomotion paper in IEEE Humanoids 2024.
+Gave oral presentation of Multicontact Locomotion paper in IEEE Humanoids 2024
