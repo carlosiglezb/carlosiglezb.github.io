@@ -17,8 +17,8 @@ ninja.data = [{
             window.location.href = "/publications/";
           },
         },{id: "nav-projects",
-          title: "projects",
-          description: "A growing collection of your cool projects.",
+          title: "Projects",
+          description: "Featured selection of projects.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -42,8 +42,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
-            },},{id: "news-gave-oral-presentation-of-multicontact-locomotion-paper-in-ieee-humanoids-2024",
+            },},{id: "news-gave-oral-presentation-of-learned-adaptive-horizon-mpc-paper-at-ieee-cdc-2023",
+          title: 'Gave oral presentation of Learned Adaptive Horizon MPC paper at IEEE CDC 2023...',
+          description: "",
+          section: "News",},{id: "news-gave-oral-presentation-of-multicontact-locomotion-paper-in-ieee-humanoids-2024",
           title: 'Gave oral presentation of Multicontact Locomotion paper in IEEE Humanoids 2024.',
+          description: "",
+          section: "News",},{id: "news-gave-oral-presentation-of-variable-inertia-mpc-paper-at-ieee-cdc-2024",
+          title: 'Gave oral presentation of Variable Inertia MPC paper at IEEE CDC 2024',
           description: "",
           section: "News",},{id: "news-passed-oral-qualifying-exams-became-phd-candidate",
           title: 'Passed oral qualifying exams. Became PhD Candidate.',
