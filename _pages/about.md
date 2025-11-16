@@ -20,6 +20,6 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 ---
 
-I am a Ph.D. Candidate in the Department of Aerospace Engineering at the University of Texas at Austin. My core expertise lies at the intersection of optimization, motion planning algorithms, and control theory, specifically applied to dynamic whole-body control for humanoids navigating unstructured environments.
+I am a Ph.D. Candidate in the [Human Centered Robotics Lab](https://sites.utexas.edu/hcrl/) in the University of Texas at Austin. My core expertise lies at the intersection of optimization, motion planning algorithms, and control theory, specifically applied to dynamic whole-body control for humanoids navigating unstructured environments.
 
 My goal is to translate these advanced control techniques into robotic products that are safe and reliable and that integrate seamlessly into and improve our daily lives. This passion builds upon my previous work in human-centered systems. I am seeking to leverage this deep expertise for high-impact roles in the robotics industry.
