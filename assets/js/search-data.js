@@ -48,7 +48,12 @@ ninja.data = [{
           section: "News",},{id: "news-passed-oral-qualifying-exams-became-phd-candidate",
           title: 'Passed oral qualifying exams. Became PhD Candidate.',
           description: "",
-          section: "News",},{
+          section: "News",},{id: "projects-multicontact-whole-body-planning",
+          title: 'Multicontact Whole Body Planning',
+          description: "IEEE Humanoids 2024",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/1_project.html";
+            },},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
