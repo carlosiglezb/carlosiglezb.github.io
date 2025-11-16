@@ -46,19 +46,19 @@ ninja.data = [{
           title: 'Gave oral presentation of Learned Adaptive Horizon MPC paper at IEEE CDC 2023...',
           description: "",
           section: "News",},{id: "news-gave-oral-presentation-of-multicontact-locomotion-paper-in-ieee-humanoids-2024",
-          title: 'Gave oral presentation of Multicontact Locomotion paper in IEEE Humanoids 2024.',
+          title: 'Gave oral presentation of Multicontact Locomotion paper in IEEE Humanoids 2024',
           description: "",
           section: "News",},{id: "news-gave-oral-presentation-of-variable-inertia-mpc-paper-at-ieee-cdc-2024",
           title: 'Gave oral presentation of Variable Inertia MPC paper at IEEE CDC 2024',
           description: "",
-          section: "News",},{id: "news-passed-oral-qualifying-exams-became-phd-candidate",
-          title: 'Passed oral qualifying exams. Became PhD Candidate.',
+          section: "News",},{id: "news-passed-oral-qualifying-exams-became-a-phd-candidate",
+          title: 'Passed oral qualifying exams. Became a PhD Candidate',
           description: "",
           section: "News",},{id: "projects-multicontact-whole-body-planning",
           title: 'Multicontact Whole Body Planning',
           description: "IEEE Humanoids 2024",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project.html";
+              window.location.href = "/projects/mfpp_project.html";
             },},{
         id: 'social-email',
         title: 'email',
