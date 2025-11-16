@@ -7,7 +7,7 @@ first_name: Carlos
 middle_name: 
 last_name: Gonzalez
 contact_note: >
-  name_starting_with_c<dot>name_starting_with_g<at>utexas<dot>edu
+  
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Ph.D. Candidate specializing in optimization algorithms applied to humanoid whole-body 
   planning for efficient traversal of unstructured terrain.
@@ -17,7 +17,6 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  # Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: robotics, humanoids, optimization, control-theory
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
