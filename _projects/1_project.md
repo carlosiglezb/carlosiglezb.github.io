@@ -25,3 +25,4 @@ A graphical video of our approach is shown below:
 The details are shown in {% cite Gonzalez2024Humanoids %} and the code is available on 
 [GitHub](https://github.com/carlosiglezb/PyPnC/tree/master/pnc/planner/multicontact). 
 
+Interactive animations of the resulting plans are available for the [G1](https://carlosiglezb.github.io/humanoids24/g1_door_crossing.html), [ergoCub](https://carlosiglezb.github.io/humanoids24/ergoCub_door_crossing.html), and [Valkyrie](https://carlosiglezb.github.io/humanoids24/valkyrie_door_crossing.html). 
