@@ -4,7 +4,7 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Carlos
-# middle_name: 
+middle_name: 
 last_name: Gonzalez
 contact_note: >
   
@@ -151,7 +151,6 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
-  - _news/announcement_*.md
   - _pages/blog.md
   - _pages/teaching.md
   - _pages/profiles.md
