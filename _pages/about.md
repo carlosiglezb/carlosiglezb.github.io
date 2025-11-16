@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <p>Department of Aerospace Engineering, The University of Texas at Austin</p>
 
