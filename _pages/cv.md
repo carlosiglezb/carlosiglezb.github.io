@@ -1,11 +1,11 @@
 ---
 layout: cv
 permalink: /cv/
-title: Resume
+title: cv
 nav: true
 nav_order: 5
-cv_pdf: Curriculum_Vitae.pdf
-description: Summary of my academic background, professional experience, and technical expertise.
+cv_pdf: example_pdf.pdf # you can also use external links here
+description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
 toc:
   sidebar: left
 ---
