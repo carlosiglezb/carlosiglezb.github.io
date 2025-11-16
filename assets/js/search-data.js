@@ -42,7 +42,13 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
-            },},{
+            },},{id: "news-gave-oral-presentation-of-multicontact-locomotion-paper-in-ieee-humanoids-2024",
+          title: 'Gave oral presentation of Multicontact Locomotion paper in IEEE Humanoids 2024.',
+          description: "",
+          section: "News",},{id: "news-passed-oral-qualifying-exams-became-phd-candidate",
+          title: 'Passed oral qualifying exams. Became PhD Candidate.',
+          description: "",
+          section: "News",},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
