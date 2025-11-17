@@ -54,7 +54,12 @@ ninja.data = [{
           section: "News",},{id: "news-passed-oral-qualifying-exams-became-a-phd-candidate",
           title: 'Passed oral qualifying exams. Became a PhD Candidate',
           description: "",
-          section: "News",},{id: "projects-design-and-integration-of-person-carrying-robot",
+          section: "News",},{id: "projects-sensitivity-in-multicontact-balance-stability-boundary",
+          title: 'Sensitivity in Multicontact Balance Stability Boundary',
+          description: "ASME-JMR (2018), ASME-IDETC (2018), ASME-IDETC (2017)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/bsb_project.html";
+            },},{id: "projects-design-and-integration-of-person-carrying-robot",
           title: 'Design and Integration of Person Carrying Robot',
           description: "ASME-IDETC (2023)",
           section: "Projects",handler: () => {
