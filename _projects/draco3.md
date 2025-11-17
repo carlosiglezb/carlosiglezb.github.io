@@ -18,7 +18,7 @@ Some of the experiments performed with our controller on Draco3 are shown below:
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="https://youtu.be/9qVQzY0fic8?si=FvRyw1HLAi0fzEwh&t=49" class="img-fluid rounded z-depth-1" %}
+        {% include video.liquid path="https://www.youtube.com/watch?v=9qVQzY0fic8&t=49s" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
