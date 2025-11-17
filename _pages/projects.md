@@ -2,7 +2,7 @@
 layout: page
 title: Portfolio
 permalink: /projects/
-description: Featured selection of projects arranged by type of robot used.
+description: Featured selection of projects arranged by the type of robot used.
 nav: true
 nav_order: 2
 display_categories: [humanoids, quadrupeds, mobile base]
