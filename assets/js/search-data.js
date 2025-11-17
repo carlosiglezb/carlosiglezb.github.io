@@ -3,8 +3,8 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-about",
-    title: "About",
+    id: "nav-about-me",
+    title: "About Me",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
@@ -59,7 +59,7 @@ ninja.data = [{
               window.location.href = "/projects/bumpybot_project.html";
             },},{id: "projects-whole-body-control-using-rolling-contact-joints",
           title: 'Whole Body Control using Rolling Contact Joints',
-          description: "IEEE SII (2025), Frontiers in Robotics and AI (2023)",
+          description: "IEEE SII (2025), IEEE Humanoids (2023), Frontiers in Robotics and AI (2023)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/draco3.html";
             },},{id: "projects-balance-control-of-robots-with-point-feet",
