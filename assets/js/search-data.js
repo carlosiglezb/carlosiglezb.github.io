@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-portfolio",
           title: "Portfolio",
-          description: "Featured selection of projects arranged by type of robot used.",
+          description: "Featured selection of projects arranged by the type of robot used.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
