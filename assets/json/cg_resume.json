@@ -105,6 +105,36 @@
       ]
     }
   ],
+  "volunteer": [
+    {
+      "organization": "Latinitas",
+      "position": "Volunteer",
+      "location": "Austin, TX, USA",
+      "startDate": "2024-11-28",
+      "endDate": "2024-11-28",
+      "summary": "Assisted in open house event for non-profit providing educational programs for Latinas."
+    },
+    {
+      "organization": "Hospital for Special Surgery",
+      "position": "Volunteer",
+      "location": "New York City, NY, USA",
+      "startDate": "2017-06-01",
+      "endDate": "2017-12-31",
+      "summary": "Processed experimental data using Cortex for a study on energy expenditure in human walking."
+    },
+    {
+      "organization": "Multi-Agent, Robotic, Hybrid, and Embedded Systems Lab (UNM)",
+      "position": "Volunteer",
+      "location": "UNM, USA",
+      "startDate": "2013-06-01",
+      "endDate": "2014-03-31",
+      "summary": "Contributed to robotics research by designing, building, and programming hardware.",
+      "highlights": [
+        "Designed and built mechanical parts for quadrotors used for research.",
+        "Worked with a 7 DoF robotic arm using MATLAB and its Robotic Toolbox by Peter Corke."
+      ]
+    }
+  ],
   "education": [
     {
       "institution": "University of Texas, Austin",
@@ -192,6 +222,28 @@
         "Control Theory",
         "Hybrid System Identification"
       ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native",
+      "icon": ""
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent",
+      "icon": ""
+    },
+    {
+      "language": "Italian",
+      "fluency": "Intermediate",
+      "icon": ""
+    },
+    {
+      "language": "French",
+      "fluency": "Basic",
+      "icon": ""
     }
   ],
   "publications": [

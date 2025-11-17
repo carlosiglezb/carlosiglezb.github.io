@@ -585,11 +585,11 @@ jsonresume:
   - work
   - education
   - publications
-  - projects
+  # - projects
   - volunteer
-  - awards
-  - certificates
+  # - awards
+  # - certificates
   - skills
   - languages
-  - interests
-  - references
+  # - interests
+  # - references
