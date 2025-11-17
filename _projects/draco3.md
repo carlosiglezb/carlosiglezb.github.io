@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Whole Body Control using Rolling Contact Joints
-description: Frontiers in Robotics and AI 2023
+description: IEEE SII (2025), Frontiers in Robotics and AI (2023)
 img: assets/img/draco3.png
 importance: 2
 category: humanoids

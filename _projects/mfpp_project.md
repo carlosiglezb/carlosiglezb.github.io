@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Multicontact Whole Body Planning
-description: IEEE Humanoids 2024
+description: IEEE Humanoids (2024)
 img: assets/img/mfpp.png
 importance: 1
 category: humanoids

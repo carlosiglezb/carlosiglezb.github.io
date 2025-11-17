@@ -19,10 +19,12 @@ The following video shows the results of our balance controller {% cite Gonzalez
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="https://www.youtube.com/embed/Cun1OBJXsUo" class="img-fluid rounded z-depth-1" %}
+        <div class="embed-responsive embed-responsive-16by9">
+            {% include video.liquid path="https://www.youtube.com/embed/Cun1OBJXsUo" class="img-fluid rounded z-depth-1" %}
+        </div>
     </div>
 </div>
 
 <div class="caption">
-    Physical experiments of balance controller on HyQ and simulations showing extensions to perform line walking locomotion.
+    Physical experiments of balance controller on HyQ and simulations showing versatility to also perform line walking locomotion.
 </div>
