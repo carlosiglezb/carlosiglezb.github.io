@@ -156,6 +156,7 @@ exclude:
   - _pages/profiles.md
   - _posts/
   - assets/jupyter/blog.ipynb
+  - _books/
 keep_files:
   - CNAME
   - .nojekyll
