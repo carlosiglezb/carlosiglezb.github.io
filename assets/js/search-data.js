@@ -23,16 +23,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-repositories",
-          title: "Repositories",
-          description: "List of repositories I have mostly contributed to.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/repositories/";
-          },
         },{id: "nav-cv",
-          title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          title: "CV",
+          description: "Detailed history of my academic research, technical achievements, and educational background. My work focuses on translating advanced control theory and optimization into deployable, robust, and safe robotic systems.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
