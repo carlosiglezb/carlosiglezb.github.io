@@ -30,12 +30,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather.html";
-            },},{id: "news-gave-oral-presentation-of-learned-adaptive-horizon-mpc-paper-at-ieee-cdc-2023",
+        },{id: "news-gave-oral-presentation-of-learned-adaptive-horizon-mpc-paper-at-ieee-cdc-2023",
           title: 'Gave oral presentation of Learned Adaptive Horizon MPC paper at IEEE CDC 2023...',
           description: "",
           section: "News",},{id: "news-gave-oral-presentation-of-multicontact-locomotion-paper-in-ieee-humanoids-2024",
