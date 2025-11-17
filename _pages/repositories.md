@@ -3,7 +3,7 @@ layout: page
 permalink: /repositories/
 title: Repositories
 description: List of repositories I have mostly contributed to.
-nav: true
+nav: false
 nav_order: 4
 ---
 

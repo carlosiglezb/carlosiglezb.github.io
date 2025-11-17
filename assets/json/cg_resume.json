@@ -28,17 +28,17 @@
   "work": [
     {
       "name": "Graduate Research Assistant, University of Texas at Austin",
-      "position": "Robotics Researcher",
+      "position": "PhD Student (Robotics)",
       "location": "Austin, TX",
       "startDate": "2021-08-01",
       "endDate": "Present",
-      "summary": "Doctoral research focused on advanced locomotion and multi-contact planning for complex humanoid robots and novel mechatronic system design.",
+      "summary": "Doctoral research focused on locomotion and multi-contact planning for humanoid robots navigating confined spaces.",
       "highlights": [
         "Developed and benchmarked fast, collision-free multi-contact planning algorithms for humanoids.",
         "Configured, tested, and integrated COTS servo controllers (EtherCAT) into existing hardware.",
         "Developed approach for online optimal horizon selection in Model Predictive Control (MPC).",
         "Designed and prototyped mechanical structure of person-carrying omniwheel mobile robot.",
-        "Developed and open-sourced low-level code for EtherCAT devices with ROS integration [C6]."
+        "Developed and open-sourced low-level code for EtherCAT devices with ROS integration."
       ]
     },
     {
@@ -47,7 +47,7 @@
       "location": "Pensacola, FL",
       "startDate": "2020-09-01",
       "endDate": "2021-07-01",
-      "summary": "Led controls engineering for legged platforms (Atlas, Quix, Nadia), focusing on robustness and safety.",
+      "summary": "Contributed to software development for legged platforms: Atlas, Quix, and Nadia.",
       "highlights": [
         "Designed and implemented (in Java) push recovery and balance strategies on Atlas humanoid.",
         "Improved force sensing and control capabilities of exoskeleton Quix.",
@@ -65,24 +65,24 @@
         "Simulated a novel balance control strategy enabling HyQ to balance on two point feet in Gazebo.",
         "Implemented the controller on the real HyQ robot, achieving balance on a support line.",
         "Incorporated motion controller to achieve line walking in simulation.",
-        "Submitted and presented main simulations and experimental results in IROS [C8]."
+        "Submitted and presented main simulations and experimental results in IROS."
       ]
     },
     {
       "name": "Research Assistant, New York University",
-      "position": "Legged Systems Analyst",
+      "position": "Balance Stability of Legged Systems",
       "location": "Brooklyn, NY, USA",
       "startDate": "2016-01-01",
       "endDate": "2018-01-01",
-      "summary": "Conducted sensitivity analysis on the balance-stability of legged systems to quantify design trade-offs.",
+      "summary": "Conducted sensitivity analysis on the balance-stability of legged systems to quantify design and control trade-offs.",
       "highlights": [
-        "Designed a computational approach combining numerical optimization and motion planning to establish balance-stability (publications [C10], [J2]).",
-        "Derived quasi-analytical solutions to quantify changes in balance-stability based on design constraints (e.g., torque limits), published work in [C9]."
+        "Designed a computational approach combining numerical optimization and motion planning to establish balance-stability.",
+        "Derived quasi-analytical solutions to quantify changes in balance-stability based on design constraints (e.g., torque limits)."
       ]
     },
     {
       "name": "Research Assistant, University of New Mexico",
-      "position": "Systems Identification Researcher",
+      "position": "M.S. Student (Hybrid Systems)",
       "location": "Albuquerque, NM, USA",
       "startDate": "2015-01-01",
       "endDate": "2016-01-01",
@@ -94,14 +94,14 @@
     },
     {
       "name": "Research Student, University of New Mexico",
-      "position": "Micro-Robotics Controls Analyst",
+      "position": "B.S. Student (Control of MEMS device)",
       "location": "Albuquerque, NM, USA",
       "startDate": "2014-01-01",
       "endDate": "2014-12-31",
       "summary": "Conducted initial control research for a smart microelectromechanical material used as a microgripper.",
       "highlights": [
         "Designed and presented a research proposal plan to academic advisor.",
-        "Designed and performed experiments to validate the proposed approach, published work on [J3]."
+        "Designed and performed experiments to validate the proposed approach."
       ]
     }
   ],
@@ -188,7 +188,6 @@
       "icon": "fa-solid fa-robot",
       "keywords": [
         "ROS / ROS 2",
-        "Gazebo",
         "EtherCAT",
         "CAN",
         "Git",
@@ -217,7 +216,6 @@
       "keywords": [
         "Model Predictive Control (MPC)",
         "Whole-Body Motion Planning",
-        "Real-Time Legged Balancing",
         "Optimization Algorithms",
         "Control Theory",
         "Hybrid System Identification"
