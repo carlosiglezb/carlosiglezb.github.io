@@ -54,7 +54,12 @@ ninja.data = [{
           section: "News",},{id: "news-passed-oral-qualifying-exams-became-a-phd-candidate",
           title: 'Passed oral qualifying exams. Became a PhD Candidate',
           description: "",
-          section: "News",},{id: "projects-multicontact-whole-body-planning",
+          section: "News",},{id: "projects-whole-body-control-using-rolling-contact-joints",
+          title: 'Whole Body Control using Rolling Contact Joints',
+          description: "Frontiers in Robotics and AI 2023",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/draco3.html";
+            },},{id: "projects-multicontact-whole-body-planning",
           title: 'Multicontact Whole Body Planning',
           description: "IEEE Humanoids 2024",
           section: "Projects",handler: () => {
