@@ -59,6 +59,11 @@ ninja.data = [{
           description: "Frontiers in Robotics and AI 2023",
           section: "Projects",handler: () => {
               window.location.href = "/projects/draco3.html";
+            },},{id: "projects-balance-control-of-robots-with-point-feet",
+          title: 'Balance Control of Robots with Point Feet',
+          description: "IROS 2020",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/hyq_balancer_project.html";
             },},{id: "projects-multicontact-whole-body-planning",
           title: 'Multicontact Whole Body Planning',
           description: "IEEE Humanoids 2024",
