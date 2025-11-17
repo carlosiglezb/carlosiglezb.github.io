@@ -248,85 +248,85 @@
       "name": "Control and evaluation of a humanoid robot with rolling contact joints on its lower body",
       "publisher": "Frontiers in Robotics and AI, vol. 10, 2023.",
       "releaseDate": "2023-01-01",
-      "url": "[link]"
+      "url": "https://doi.org/10.3389/frobt.2023.1164660"
     },
     {
       "name": "Contact-Dependent Balance Stability of Biped Robots",
       "publisher": "Journal of Mechanisms and Robotics, vol. 10, no. 2, p. 021009, 2018.",
       "releaseDate": "2018-01-01",
-      "url": "[link]"
+      "url": "https://doi.org/10.1115/1.4038978"
     },
     {
       "name": "An IPMC microgripper with integrated actuator and sensing for constant finger-tip displacement",
       "publisher": "Smart Materials and Structures, vol. 24, no. 5, p. 55011, 2015.",
       "releaseDate": "2015-01-01",
-      "url": "[link]"
+      "url": "https://doi.org/10.1088/0964-1726/24/5/055011"
     },
     {
       "name": "RPC: A modular framework for robot planning, control, and deployment",
       "publisher": "IEEE/SICE International Symposium on System Integration (SII), 2025.",
       "releaseDate": "2025-01-01",
-      "url": "[link]"
+      "url": "https://doi.org/10.1109/SII59315.2025.10871130"
     },
     {
       "name": "Guiding Collision-Free Humanoid Multi-Contact Locomotion using Convex Kinematic Relaxations and Dynamic Optimization",
       "publisher": "IEEE-RAS 23rd International Conference on Humanoid Robots (Humanoids), 2024.",
       "releaseDate": "2024-01-01",
-      "url": "[link]"
+      "url": "https://doi.org/10.1109/Humanoids58906.2024.10769791"
     },
     {
       "name": "Variable inertia model predictive control for fast bipedal maneuvers",
       "publisher": "IEEE Conference on Decision and Control, 2024.",
       "releaseDate": "2024-01-01",
-      "url": "[link]"
+      "url": "https://doi.org/10.1109/CDC56724.2024.10886064"
     },
     {
       "name": "Deep imitation learning for humanoid loco-manipulation through human teleoperation",
       "publisher": "IEEE-RAS 22nd International Conference on Humanoid Robots (Humanoids), 2023.",
       "releaseDate": "2023-01-01",
-      "url": "[link]"
+      "url": "https://doi.org/10.1109/Humanoids57100.2023.10375203"
     },
     {
       "name": "Learning Adaptive Horizon Maps Based on Error Forecast for Model Predictive Control",
       "publisher": "IEEE Conference on Decision and Control, 2023.",
       "releaseDate": "2023-01-01",
-      "url": "[link]"
+      "url": "https://doi.org/10.1109/CDC49753.2023.10384131"
     },
     {
       "name": "Design of a Person-Carrying Robot for Contact Compliant Navigation",
       "publisher": "Proceedings of the ASME International Design Engineering Technical Conference, 2023.",
       "releaseDate": "2023-01-01",
-      "url": "[link]"
+      "url": "https://doi.org/10.1115/DETC2023-117215"
     },
     {
       "name": "Data-Driven Safety Verification for Legged Robots",
       "publisher": "IEEE-RAS International Conference on Humanoid Robots, 2022.",
       "releaseDate": "2022-01-01",
-      "url": "[link]"
+      "url": "https://doi.org/10.1109/Humanoids53995.2022.10000221"
     },
     {
       "name": "Line walking and balancing for legged robots with point feet",
       "publisher": "IEEE/RSJ International Conference on Intelligent Robots and Systems, 2020.",
       "releaseDate": "2020-01-01",
-      "url": "[link]"
+      "url": "https://doi.org/10.1109/IROS45743.2020.9341743"
     },
     {
       "name": "Sensitivity of balancing in legged systems under torque constraint variations",
       "publisher": "Proceedings of the ASME International Design Engineering Technical Conference, 2018, pp. 1–9.",
       "releaseDate": "2018-01-01",
-      "url": "[link]"
+      "url": "https://doi.org/10.1115/DETC2018-86063"
     },
     {
       "name": "Contact-Dependent Balance Stability of Walking Robots",
       "publisher": "ASME 2017 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference, 2017, pp. 1–7.",
       "releaseDate": "2017-01-01",
-      "url": "[link]"
+      "url": "https://doi.org/10.1115/DETC2017-68272"
     },
     {
       "name": "Detection of manual tracking submovements in Parkinson’s disease through hybrid optimization",
       "publisher": "IFAC-PapersOnLine, vol. 48, no. 27, pp. 291–297, 2015.",
       "releaseDate": "2015-01-01",
-      "url": "[link]"
+      "url": "https://doi.org/10.1016/j.ifacol.2015.11.190"
     }
   ]
 }
