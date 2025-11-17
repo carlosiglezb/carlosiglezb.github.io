@@ -1,14 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - carlosiglezb
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - carlosiglezb/PyPnC
+  - UT-HCRL/rpc
+  - carlosiglezb/bumpybot
+  - UT-HCRL/TRILL-ONR
+  - junhyeokahn/PyPnC
