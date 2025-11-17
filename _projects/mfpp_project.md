@@ -25,4 +25,5 @@ A graphical video of our approach is shown below:
 The details are shown in {% cite Gonzalez2024Humanoids %} and the code is available on 
 [GitHub](https://github.com/carlosiglezb/PyPnC/tree/master/pnc/planner/multicontact). 
 
-Interactive animations of the resulting plans are available for the [G1](https://carlosiglezb.github.io/humanoids24/g1_door_crossing.html), [ergoCub](https://carlosiglezb.github.io/humanoids24/ergoCub_door_crossing.html), and [Valkyrie](https://carlosiglezb.github.io/humanoids24/valkyrie_door_crossing.html). 
+Interactive animations of the resulting plans are available for the
+<a href="https://carlosiglezb.github.io/humanoids24/g1_door_crossing.html" target="_blank" rel="noopener noreferrer">G1</a>, <a href="https://carlosiglezb.github.io/humanoids24/ergoCub_door_crossing.html" target="_blank" rel="noopener noreferrer">ergoCub</a>, and <a href="https://carlosiglezb.github.io/humanoids24/valkyrie_door_crossing.html" target="_blank" rel="noopener noreferrer">Valkyrie</a>. To replay the animation, navigate the panel on the top-right corner by going to Open Controls -> Animations -> default ->play. 
