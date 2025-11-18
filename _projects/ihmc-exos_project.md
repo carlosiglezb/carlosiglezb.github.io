@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Exokeleton Development
-description: IHMC Quix and Eva
+description: Journal of NeuroEngineering and Rehabilitation (2022)
 img: assets/img/publication_preview/mark-quix.png
 importance: 1
 category: exoskeletons
@@ -20,7 +20,7 @@ In the Quix project, I mostly helped with the evaluation and testing of the fini
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         <div class="embed-responsive embed-responsive-16by9">
-            {% include video.liquid path="https://www.youtube.com/embde/mIbaOjXYxHs" class="img-fluid rounded z-depth-1" %}
+            {% include video.liquid path="https://www.youtube.com/embed/mIbaOjXYxHs" class="img-fluid rounded z-depth-1" %}
         </div>
     </div>
 </div>
