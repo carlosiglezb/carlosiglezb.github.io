@@ -2,7 +2,7 @@
 layout: page
 title: Exokeleton Development
 description: IHMC Quix and Eva
-img: assets/img/hyq-balancing.jpeg
+img: assets/img/publication_preview/mark-quix.png
 importance: 1
 category: exoskeletons
 related_publications: true
