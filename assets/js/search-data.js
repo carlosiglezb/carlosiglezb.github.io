@@ -64,7 +64,7 @@ ninja.data = [{
               window.location.href = "/projects/hyq_balancer_project.html";
             },},{id: "projects-exokeleton-development",
           title: 'Exokeleton Development',
-          description: "IHMC Quix and Eva",
+          description: "Journal of NeuroEngineering and Rehabilitation (2022)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ihmc-exos_project.html";
             },},{id: "projects-multicontact-whole-body-planning",
