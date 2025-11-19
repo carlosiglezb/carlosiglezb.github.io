@@ -6,12 +6,13 @@
     "email": "first&lt;dot&gt;last&lt;at&gt;utexas&lt;dot&gt;edu",
     "phone": "",
     "url": "https://carlosiglezb.github.io/",
-    "summary": "Ph.D. Candidate specializing in dynamic whole-body motion planning and control for humanoid and complex legged systems. Expertise includes Numerical Optimization methods, Model Predictive Control, and software-hardware integration, driven to deploy safe and reliable robotic platforms. *Willing to relocate nationally and internationally",
+    "summary": "Ph.D. Candidate specializing in dynamic whole-body motion planning and control for humanoid and complex legged systems. Expertise includes Numerical Optimization methods, Model Predictive Control, and software-hardware integration, driven to deploy safe and reliable robotic platforms.",
     "location": {
       "city": "Austin",
       "countryCode": "US",
       "region": "Texas"
     },
+    "relocation": "Willing to relocate nationally and internationally",
     "profiles": [
       {
         "network": "LinkedIn",
