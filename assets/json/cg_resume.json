@@ -6,7 +6,7 @@
     "email": "first&lt;dot&gt;last&lt;at&gt;utexas&lt;dot&gt;edu",
     "phone": "",
     "url": "https://carlosiglezb.github.io/",
-    "summary": "Ph.D. Candidate specializing in dynamic whole-body motion planning and control for humanoid and complex legged systems. Expertise includes Numerical Optimization, Model Predictive Control, and full-stack development using C++, ROS, and Python, driven by a goal to deploy safe and reliable robotic platforms.",
+    "summary": "Ph.D. Candidate specializing in dynamic whole-body motion planning and control for humanoid and complex legged systems. Expertise includes Numerical Optimization methods, Model Predictive Control, and software-hardware integration, driven to deploy safe and reliable robotic platforms. *Willing to relocate nationally and internationally",
     "location": {
       "city": "Austin",
       "countryCode": "US",
@@ -203,9 +203,8 @@
         "Simulink",
         "OnShape",
         "SolidWorks",
-        "EAGLE (Intermediate)",
-        "LabView (Basic)",
-        "Cortex (Basic)"
+        "EAGLE",
+        "LabView",
       ]
     },
     {
