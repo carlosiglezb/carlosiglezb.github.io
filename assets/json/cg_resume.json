@@ -180,7 +180,7 @@
         "C++",
         "Python",
         "Java",
-        "Matlab"
+        "Matlab / Simulink"
       ]
     },
     {
@@ -199,12 +199,11 @@
       "level": "Proficient",
       "icon": "fa-solid fa-robot",
       "keywords": [
-        "CvxPy/CasADi/HPIPM",
-        "Pinocchio/RobCoGen",
+        "CvxPy / CasADi / HPIPM",
+        "Pinocchio / RobCoGen",
+        "MuJoCo / IsaacLab / PyBullet"
         "PyTorch",
-        "Simulink",
-        "OnShape",
-        "SolidWorks"
+        "OnShape / SolidWorks"
       ]
     },
     {
