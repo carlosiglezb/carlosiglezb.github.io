@@ -95,7 +95,7 @@
     },
     {
       "name": "Research Student, University of New Mexico",
-      "position": "B.S. Student (Control of MEMS device)",
+      "position": "B.S. Student (Control of MEMS microgripper)",
       "location": "Albuquerque, NM, USA",
       "startDate": "2014-01-01",
       "endDate": "2014-12-31",
@@ -179,33 +179,32 @@
       "keywords": [
         "C++",
         "Python",
-        "Java"
+        "Java",
+        "Matlab"
       ]
     },
     {
-      "name": "Robotics & Development Frameworks",
+      "name": "Robotics Middleware & Comms",
       "level": "Intermediate",
-      "icon": "fa-solid fa-robot",
+      "icon": "fa-solid fa-tower-broadcast",
       "keywords": [
         "ROS / ROS 2",
         "EtherCAT",
         "CAN",
-        "Git",
-        "Linux",
-        "LATEX"
+        "Git"
       ]
     },
     {
       "name": "Software & Simulation Tools",
       "level": "Proficient",
-      "icon": "fa-solid fa-gears",
+      "icon": "fa-solid fa-robot",
       "keywords": [
-        "MATLAB",
+        "CvxPy/CasADi/HPIPM",
+        "Pinocchio/RobCoGen",
+        "PyTorch",
         "Simulink",
         "OnShape",
-        "SolidWorks",
-        "EAGLE",
-        "LabView"
+        "SolidWorks"
       ]
     },
     {
@@ -214,7 +213,7 @@
       "icon": "fa-solid fa-calculator",
       "keywords": [
         "Model Predictive Control (MPC)",
-        "Whole-Body Motion Planning",
+        "Whole-Body Control / Planning",
         "Optimization Algorithms",
         "Control Theory",
         "Hybrid System Identification"

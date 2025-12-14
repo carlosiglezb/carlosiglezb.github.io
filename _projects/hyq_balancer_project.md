@@ -10,10 +10,10 @@ related_publications: true
 
 <!-- Intro -->
 This project applies the balance theory development by 
-<a href="https://royfeatherstone.org/" target="_blank" rel="noopener noreferrer">Prof. Roy Featherstone</a> to a quadruped robot balancing on two point feet in 3D space.
+<a href="https://royfeatherstone.org/" target="_blank" rel="noopener noreferrer">Prof. Roy Featherstone</a> to a quadruped robot balancing on two point feet.
 
 <!-- Approach Overview -->
-The proposed strategy consists in constructing a kinematic equivalence between the quadruped robot balancing on two point-feet in 3D space, and an underactuated inverted pendulum balancing on a 2D plane. An angular-based balance control law is designed for the virtual underactuated inverted pendulum, and the resulting momentum is translated to the quadruped through the aforementioned kinematic map. This is paired with a control framework known as the Reactive Controller Framework (RCF) to achieve both balance and locomotion on two point-feet. This is showcased in the challenging task resembling tightrope walking.
+The proposed strategy consists in constructing a kinematic equivalence between the quadruped robot balancing on two point-feet in 3D space, and a virtual underactuated inverted pendulum with a flywheel balancing in a 2D plane. An angular-based balance control law is designed for the virtual model, and the resulting momentum is translated to the quadruped through the aforementioned kinematic map. This is paired with a control framework known as the Reactive Controller Framework (RCF) to achieve both balance and locomotion on two point-feet. This is showcased in the challenging task resembling tightrope walking.
 
 The following video shows the results of our balance controller {% cite Gonzalez2020IROS %}:
 
