@@ -201,7 +201,7 @@
       "keywords": [
         "CvxPy / CasADi / HPIPM",
         "Pinocchio / RobCoGen",
-        "MuJoCo / IsaacLab / PyBullet"
+        "MuJoCo / IsaacLab / PyBullet",
         "PyTorch",
         "OnShape / SolidWorks"
       ]
